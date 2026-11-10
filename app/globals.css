@@ -1,0 +1,15 @@
+.testimonia-section-one .swiper-pagination {
+  text-align: center;
+  z-index: 10;
+  margin: auto;
+  transition: opacity 0.3s;
+  position: absolute;
+  bottom: -40px !important;
+  left: 0 !important;
+  right: 0 !important;
+  transform: translate3d(0, 0, 0) !important;
+  white-space: normal !important;
+}
+.mean-container .mean-nav ul li a {
+  font-size: 18px;
+}
